@@ -31,7 +31,8 @@ This Excel dashboard analyzes business metrics for **Café Harmony**, covering s
 ---
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Basilissamaterry/Cafe-Harmony-Excel-Dashboard/blob/main/Screenshot%2025-06-2023%201854.png?raw=true)
+![Dashboard Screenshot](https://github.com/Basilissamaterry/Cafe-Harmony-Excel-Dashboard/blob/main/Screenshot%202025-06-19%20231854.png?raw=true)
+
 
 
 ---
